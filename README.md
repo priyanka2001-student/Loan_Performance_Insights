@@ -8,6 +8,10 @@
 
 ![Overview](https://github.com/user-attachments/assets/4a754f68-82f6-4598-b80f-79db163a1695)
 
+## Details Dashboard
+
+![Details](https://github.com/user-attachments/assets/d65655e6-1631-4981-ab08-1d4ba51874c0)
+
 ## Table of Contents
 
 [Project Overview](#project-overview)
