@@ -1,6 +1,8 @@
 # Loan Performance Insights
 
-add dashboard image
+## Summary Dashboard
+
+https://github.com/user-attachments/assets/664f3adb-9477-4f67-bbc7-d8b9266ce39a
 
 ## Table of Contents
 
