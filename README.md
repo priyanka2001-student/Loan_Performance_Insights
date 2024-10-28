@@ -4,6 +4,10 @@
 
 ![Summary](https://github.com/user-attachments/assets/664f3adb-9477-4f67-bbc7-d8b9266ce39a)
 
+## Overview Dashboard
+
+![Overview](https://github.com/user-attachments/assets/4a754f68-82f6-4598-b80f-79db163a1695)
+
 ## Table of Contents
 
 [Project Overview](#project-overview)
